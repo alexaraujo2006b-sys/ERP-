@@ -1,0 +1,5 @@
+{
+  "name": "ERP Extrusora Useon SAT52",
+  "description": "Um ERP web para controle de produção, paradas, manutenção e consumo de uma extrusora Useon SAT52, funcionando totalmente offline com persistência de dados local via IndexedDB.",
+  "requestFramePermissions": []
+}
